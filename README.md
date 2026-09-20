@@ -1,2 +1,2 @@
-# Introducci-n-a-Info---Grupo
+# Introduccion-a-Info-Grupo
 Hola, manos a la obra!
