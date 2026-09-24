@@ -1,499 +1,121 @@
-
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brisa Tours | Grupo 1</title>
-
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0faff;
-            color: #24404c;
-            line-height: 1.7;
-        }
-
-        header {
-            background: linear-gradient(135deg, #007c91, #43c6c9);
-            color: white;
-            text-align: center;
-            padding: 45px 20px;
-        }
-
-        header h1 {
-            font-size: 42px;
-            margin-bottom: 10px;
-        }
-
-        header p {
-            font-size: 18px;
-        }
-
-        nav {
-            background-color: #005b70;
-            text-align: center;
-            padding: 15px;
-        }
-
-        nav a {
-            color: white;
-            text-decoration: none;
-            margin: 10px;
-            font-weight: bold;
-        }
-
-        nav a:hover {
-            color: #ffe082;
-        }
-
-        section {
-            max-width: 1100px;
-            margin: 30px auto;
-            padding: 25px;
-        }
-
-        h2 {
-            color: #007c91;
-            margin-bottom: 15px;
-            text-align: center;
-        }
-
-        h3 {
-            color: #007c91;
-            margin-bottom: 10px;
-        }
-
-        .presentacion {
-            text-align: center;
-            background-color: white;
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: 0 3px 12px #c9e5eb;
-        }
-
-        .contenedor {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 20px;
-        }
-
-        .tarjeta {
-            background-color: white;
-            padding: 22px;
-            border-radius: 14px;
-            box-shadow: 0 3px 12px #c9e5eb;
-        }
-
-        .tarjeta p {
-            margin-bottom: 8px;
-        }
-
-        .destino {
-            text-align: center;
-            border-top: 5px solid #43c6c9;
-        }
-
-        .destino .emoji {
-            font-size: 40px;
-        }
-
-        ul {
-            padding-left: 25px;
-        }
-
-        .github {
-            background-color: #e0f4f7;
-            border-radius: 15px;
-            padding: 30px;
-        }
-
-        .contacto {
-            background-color: #007c91;
-            color: white;
-            text-align: center;
-            border-radius: 15px;
-            padding: 30px;
-        }
-
-        .contacto h2 {
-            color: white;
-        }
-
-        footer {
-            background-color: #003b4d;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-
-        a {
-            overflow-wrap: anywhere;
-        }
-
-        @media (max-width: 600px) {
-            header h1 {
-                font-size: 30px;
-            }
-
-            nav a {
-                display: inline-block;
-                margin: 5px;
-            }
-
-            section {
-                padding: 18px;
-            }
-        }
-    </style>
+    <title>Mi primera página</title>
 </head>
-
 <body>
-
-    <header>
-        <h1>✈️ BRISA TOURS 🌎</h1>
-        <p>Tu próxima aventura comienza aquí</p>
-        <p>Conociendo Honduras, un destino a la vez.</p>
-    </header>
-
-    <nav>
-        <a href="#inicio">Inicio</a>
-        <a href="#nosotros">Nosotros</a>
-        <a href="#destinos">Destinos</a>
-        <a href="#servicios">Servicios</a>
-        <a href="#github">GitHub</a>
-        <a href="#contacto">Contacto</a>
-    </nav>
-
-    <section id="inicio" class="presentacion">
-        <h2>¡Bienvenidos a Brisa Tours!</h2>
-
-        <p>
-            Somos una agencia de viajes dedicada a ofrecer experiencias
-            turísticas dentro de Honduras. Nos gusta la idea de que las
-            personas puedan conocer nuevos lugares, disfrutar de la
-            naturaleza y compartir momentos especiales con sus familias
-            y amigos.
-        </p>
-
-        <p>
-            Nuestro objetivo es brindar una atención cercana y ayudar a
-            nuestros clientes a encontrar opciones de viaje de acuerdo
-            con sus intereses, su tiempo y sus planes.
-        </p>
-
-        <p>
-            En Brisa Tours creemos que no hace falta ir muy lejos para
-            vivir una gran aventura. ¡Honduras tiene muchos lugares
-            hermosos por descubrir!
-        </p>
-    </section>
-
-    <section id="nosotros">
-        <h2>🌴 Conoce un poco sobre nosotros</h2>
-
-        <div class="contenedor">
-            <div class="tarjeta">
-                <h3>Nuestra misión</h3>
-                <p>
-                    Ofrecer experiencias turísticas accesibles, seguras
-                    y memorables, brindando atención de calidad y
-                    promoviendo el turismo nacional.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Nuestra visión</h3>
-                <p>
-                    Ser una agencia reconocida por sus servicios, la
-                    atención a sus clientes y la promoción de los
-                    principales destinos turísticos de Honduras.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>¿Qué nos identifica?</h3>
-                <p>
-                    Nos identificamos con el compañerismo, la
-                    responsabilidad, la creatividad y las ganas de
-                    aprender cosas nuevas trabajando en equipo.
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section id="destinos">
-        <h2>🏝️ Destinos turísticos</h2>
-
-        <p style="text-align: center; margin-bottom: 20px;">
-            Estos son algunos de los lugares de Honduras que nos
-            gustaría compartir con nuestros visitantes.
-        </p>
-
-        <div class="contenedor">
-            <div class="tarjeta destino">
-                <div class="emoji">🌴</div>
-                <h3>Roatán</h3>
-                <p>
-                    Un destino conocido por sus playas, sus aguas
-                    cristalinas, los arrecifes y las actividades
-                    acuáticas. Ideal para disfrutar del mar y descansar.
-                </p>
-            </div>
-
-            <div class="tarjeta destino">
-                <div class="emoji">🏛️</div>
-                <h3>Copán Ruinas</h3>
-                <p>
-                    Un lugar lleno de historia y cultura donde se
-                    pueden conocer importantes vestigios de la
-                    antigua civilización maya.
-                </p>
-            </div>
-
-            <div class="tarjeta destino">
-                <div class="emoji">🌊</div>
-                <h3>La Ceiba</h3>
-                <p>
-                    Una ciudad que ofrece naturaleza, playas y
-                    oportunidades para disfrutar de excursiones
-                    y actividades de aventura.
-                </p>
-            </div>
-
-            <div class="tarjeta destino">
-                <div class="emoji">🪸</div>
-                <h3>Utila</h3>
-                <p>
-                    Una isla que invita a disfrutar del mar,
-                    conocer sus paisajes y realizar actividades
-                    acuáticas.
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section id="servicios">
-        <h2>🧳 Nuestros servicios</h2>
-
-        <div class="contenedor">
-            <div class="tarjeta">
-                <h3>¿Qué ofrecemos?</h3>
-                <ul>
-                    <li>Reservación de viajes.</li>
-                    <li>Reservación de hoteles.</li>
-                    <li>Transporte turístico.</li>
-                    <li>Excursiones.</li>
-                    <li>Tours guiados.</li>
-                    <li>Organización de paquetes turísticos.</li>
-                </ul>
-            </div>
-
-            <div class="tarjeta">
-                <h3>¿Por qué elegir Brisa Tours?</h3>
-                <ul>
-                    <li>Atención personalizada.</li>
-                    <li>Variedad de destinos.</li>
-                    <li>Opciones para familias y grupos.</li>
-                    <li>Experiencias turísticas.</li>
-                    <li>Información y orientación para planificar viajes.</li>
-                </ul>
-            </div>
-        </div>
-    </section>
-
-    <section id="github" class="github">
-        <h2>💻 Nuestro proyecto de GitHub</h2>
-
-        <p>
-            Este proyecto forma parte de la clase de Introducción a
-            la Informática. Como grupo, estamos aprendiendo a utilizar
-            GitHub y a conocer cómo funciona el trabajo colaborativo
-            en el desarrollo de proyectos.
-        </p>
-
-        <h3>¿Qué es GitHub?</h3>
-
-        <p>
-            GitHub es una plataforma en línea que permite guardar,
-            organizar y compartir archivos y proyectos de programación.
-            También ayuda a llevar un registro de los cambios que se
-            realizan en los archivos.
-        </p>
-
-        <p>
-            Una de sus ventajas es que varias personas pueden colaborar
-            en un mismo proyecto, aportar ideas y trabajar juntas.
-            Esto nos permite aprender a organizarnos y compartir
-            nuestros conocimientos como equipo.
-        </p>
-
-        <h3>¿Qué estamos aprendiendo?</h3>
-
-        <ul>
-            <li>Crear y organizar un repositorio.</li>
-            <li>Subir archivos a GitHub.</li>
-            <li>Conocer los cambios y las versiones de un proyecto.</li>
-            <li>Practicar la creación de páginas con HTML.</li>
-            <li>Trabajar de forma colaborativa con nuestras compañeras.</li>
-        </ul>
-
-        <p>
-            Con esta actividad esperamos mejorar nuestros conocimientos
-            tecnológicos y aprender herramientas que nos puedan servir
-            durante nuestros estudios y en nuestra vida profesional.
-        </p>
-    </section>
-
-    <section>
-        <h2>👩‍🎓 Integrantes del Grupo 1</h2>
-
-        <p style="text-align: center; margin-bottom: 20px;">
-            Somos estudiantes de Introducción a la Informática y
-            estamos trabajando juntas en este proyecto universitario.
-        </p>
-
-        <div class="contenedor">
-
-            <div class="tarjeta">
-                <h3>Angela</h3>
-                <p><strong>Carrera:</strong> Licenciatura en Relaciones Industriales</p>
-                <p><strong>Número de cuenta:</strong> 202510150197</p>
-                <p><strong>Correo:</strong> angelaorga2010@gmail.com</p>
-                <p>
-                    Me interesa aprender más sobre GitHub y sobre cómo
-                    trabajar mejor en equipo. Espero adquirir nuevos
-                    conocimientos que me ayuden en mis estudios.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Naomy</h3>
-                <p><strong>Carrera:</strong> Lic. Relaciones Industriales</p>
-                <p><strong>Número de cuenta:</strong> 202620150013</p>
-                <p><strong>Correo:</strong> nrportillo@uth.hn</p>
-                <p>
-                    Me interesa aprender sobre desarrollo web, la
-                    gestión de repositorios con Git y el trabajo
-                    colaborativo. También considero importante
-                    aprender a trabajar en equipo.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Alejandra María Corea Tejada</h3>
-                <p><strong>Carrera:</strong> Licenciatura en Gerencia de Negocios</p>
-                <p><strong>Número de cuenta:</strong> 202510150065</p>
-                <p>
-                    Soy estudiante de Introducción a la Informática.
-                    Espero aprender a utilizar herramientas tecnológicas
-                    que me ayuden tanto en mis estudios como en mi
-                    futuro personal y profesional.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Jennifer Yaritza López Licona</h3>
-                <p><strong>Carrera:</strong> Licenciatura en RR. HH.</p>
-                <p><strong>Número de cuenta:</strong> 202510150146</p>
-                <p><strong>Universidad:</strong> UTH</p>
-                <p>
-                    Estoy cursando la clase de Introducción a la
-                    Informática. Deseo aprender a utilizar GitHub
-                    y otras herramientas que me ayuden a crecer
-                    profesionalmente.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Madellin Marbella Trochez Vásquez</h3>
-                <p><strong>Carrera:</strong> Licenciatura en Recursos Humanos</p>
-                <p><strong>Número de cuenta:</strong> 202510150230</p>
-                <p><strong>Universidad:</strong> UTH</p>
-                <p>
-                    Soy estudiante de Introducción a la Informática
-                    y formo parte del Grupo 1. Nuestro proyecto trata
-                    sobre la investigación de GitHub. Me interesa
-                    trabajar en equipo y aprender a utilizar esta
-                    herramienta.
-                </p>
-            </div>
-
-            <div class="tarjeta">
-                <h3>Susan</h3>
-                <p><strong>Carrera:</strong> Pendiente de agregar</p>
-                <p><strong>Número de cuenta:</strong> Pendiente</p>
-                <p><strong>Correo:</strong> Pendiente</p>
-                <p>
-                    En este espacio agregaremos su presentación
-                    personal, sus expectativas y lo que espera
-                    aprender durante el proyecto.
-                </p>
-            </div>
-
-        </div>
-    </section>
-
-    <section>
-        <h2>🤝 Nuestra experiencia como equipo</h2>
-
-        <div class="presentacion">
-            <p>
-                Como grupo, estamos dando nuestros primeros pasos
-                utilizando GitHub. Sabemos que aprender algo nuevo
-                puede tomar tiempo, pero con práctica, paciencia
-                y comunicación podemos ir mejorando.
-            </p>
-
-            <p>
-                Esta actividad nos permite compartir ideas,
-                ayudarnos entre compañeras y conocer herramientas
-                que pueden ser útiles en nuestra formación.
-            </p>
-
-            <p>
-                Esperamos terminar nuestro proyecto con nuevos
-                conocimientos y una buena experiencia de trabajo
-                en equipo.
-            </p>
-
-            <h3>¡Éxitos para todas! 💙</h3>
-        </div>
-    </section>
-
-    <section id="contacto">
-        <div class="contacto">
-            <h2>📩 Contáctanos</h2>
-
-            <p><strong>Agencia:</strong> Brisa Tours</p>
-            <p><strong>WhatsApp:</strong> +504 9999-9999</p>
-            <p><strong>Correo:</strong> brisatours@gmail.com</p>
-            <p><strong>Ubicación:</strong> Honduras</p>
-
-            <h3 style="color: white; margin-top: 15px;">
-                Síguenos en nuestras redes sociales
-            </h3>
-
-            <p><strong>Instagram:</strong> @brisatours</p>
-            <p><strong>Facebook:</strong> Brisa Tours</p>
-
-            <p style="margin-top: 15px;">
-                ¡Gracias por visitar nuestra página!
-            </p>
-        </div>
-    </section>
-
-    <footer>
-        <p>Brisa Tours | Proyecto universitario del Grupo 1</p>
-        <p>Clase de Introducción a la Informática - UTH</p>
-        <p>© 2026 | Hecho con dedicación por nuestro equipo 💙</p>
-    </footer>
-
+    <h1>¡Hola, GitHub!</h1>
+    <h2>Introducción a la Informática</h2>
+    <p>Somos estudiantes y estamos aprendiendo a utilizar GitHub.</p>
+    <h3>Integrantes del grupo</h3>
+    <ul>
+        <li>Angela</li>
+        <li>Naomy</li>
+        <li>Alejandra</li>
+        <li>Jennifer</li>
+    </ul>
 </body>
-</html>
+</html>Hola me reporto, espero podamos pasar esta tarea 
+<exito a todas >
+<li>Susan</li>
+    
+    <h1>¡Hola! Mi nombre es Naomy</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1 X. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+   <ul>
+       
+        <li><strong>Carrera:</strong> [Lic. Relaciones Industriales</li>
+        <li><strong>Número de cuenta:</strong> [202620150013]</li>
+        <li><strong>Correo:</strong> [nrportillo@uth.hn]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender sobre desarrollo web, gestión de repositorios con Git y trabajo colaborativo en equipo.
+        y lo mas importante el trabajo en equipo.</p>
+        
+       <li>Angela</li>
+    
+    <h1>¡Hola! Mi nombre es Angela</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+   <ul>
+       
+        <li><strong>Carrera:</strong> [Licenciatura Relaciones Industriales</li>
+        <li><strong>Número de cuenta:</strong> [202510150197]</li>
+        <li><strong>Correo:</strong> [angelaorga2010@gmail.com]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender mas sobre GitHub y sobre como trabajar mejor en equipo.</p>
+    
+</h1>Hola mi nombres es Madellin Trochez<h1>
+</h1> soy estudiante de la clase de Introducción a la Informatica y formo parte del grupo#1 
+<li><strong>Nombre=</strong>[Madellin Marbella Trochez Vasquez]<li>
+<li><strong>Cuenta= [202510150230]</li>
+<li><strong>Carrera= [Licenciatura en Recursos Humanos]</li>
+<li><strong>Universidad= [UTH]</li>
+</h1>Y el proyecto que estamos presentando es sobre la investigación de GitHub.</h1>
+</h1>Mi interes es trabajar en equipo y aprende sobre lo que es GitHub</h1>
+<li><strong>Nombre=</strong>[Alejandra Maria Corea Tejada]<li>
+</h1>Soy estudiante de la clase de Introducción a la Informatica y grupo#1</h1> 
+<li><strong>Cuenta= [202510150065]</li>
+<li><strong>Carrera= [Licenciatura en Gerencia de Negocios]</li>
+</h1>Mi espectativa</h1>
+</h1>Espero aprender a utilizar herramientas tecnologicas que me ayuden tanto en mis estudios como en mi futuro personal</h1>  
+   
+    <li><strong>Nombre=</strong> [Hola mi nombre es Jennifer Yaritza Lopez Licona]</li>
+    <li><strong>Cuenta=</strong> [202510150146]</li>
+    <li><strong>Carrera=</strong> [Licenciatura en RR.HH]</li>
+    <li><strong>Universidad=</strong> [UTH]</li>
+    <h1>Estoy cursando la clase de Introducción a la Informática</h1>
+    <h1>nuestro proyecto es sobre la investigación de GitHub.</h1>
+    <h1>Deseo poder aprender a utilizar GitHub, asi como otras herramientas queme ayuden ha crecer profesionalmente.</h1>
+    <h1>✈️BRISA TOURS🌎</h1>
+    <h1>Tu próxima aventura comienza aquí</h1>
+    <p>
+        Somos una agencia de viajes dedicada a ofrecer experiencias
+        turísticas dentro de Honduras. Nuestro objetivo es ayudar a
+        nuestros clientes a conocer los lugares más atractivos del país.
+    </p>
+Nuestro objetivo es brindar una atención cercana y ayudar a nuestros
+clientes a encontrar opciones de viaje de acuerdo con sus intereses.
+</p>
+    <h2>Nuestra misión</h2>
+<p>
+Ofrecer experiencias turísticas accesibles, seguras y memorables,
+brindando atención de calidad a nuestros clientes y promoviendo
+el turismo nacional.
+</p>
+    <h2>Nuestra visión</h2>
+<p>
+Ser una agencia de viajes reconocida por la calidad de sus servicios,
+la atención a sus clientes y la promoción de los principales destinos
+turísticos de Honduras.
+</p>
+    <h1>Destinos turisticos</h1>
+    <p>
+          <li><strong>🌴Roatán:</strong> Playas, actividades acuáticas y paisajes naturales.</li>
+    <li><strong>🏛️Copán Ruinas:</strong> Historia, cultura y sitios arqueológicos.</li>
+    <li><strong>🌊La Ceiba:</strong> Naturaleza, playas y actividades de aventura.</li>
+    <li><strong>🪸Utila:</strong> Destino ideal para disfrutar del mar y actividades acuáticas.</li>
+    </p>
+    [6:56 p. m., 23/9/2026] 🖤: h2>🧳 Nuestros servicios</h2>
+<ul>
+    <li> Reservación de viajes</li>
+    <li> Reservación de hoteles</li>
+    <li> Transporte turístico</li>
+    <li> Excursiones</li>
+    <li>Tours guiados</li>
+    <li>Organización de paquetes turísticos</li>
+</ul>
+<h2> ¿Por qué elegir Brisa Tours?</h2>
+<ul>
+    <li>Atención personalizada</li>
+    <li>Variedad de destinos</li>
+    <li>Opciones para familias y grupos</li>
+    <li>Experiencias turísticas</li>
+    <li>Información y orientación durante la planificación del viaje</li>
+</ul>
+    <h2> Contáctanos</h2>
+<p>WhatsApp: +504 9999-9999</p>
+<p>Correo: brisatours@gmail.com</p>
+<p>Honduras</p>
+<h3>Redes sociales</h3>
+<p>Instagram: @brisatours</p>
+<p>Facebook: Brisa Tours</p>
