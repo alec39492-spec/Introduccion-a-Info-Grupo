@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera página</title>
+</head>
+<body>
+    <h1>¡Hola, GitHub!</h1>
+    <h2>Introducción a la Informática</h2>
+    <p>Somos estudiantes y estamos aprendiendo a utilizar GitHub.</p>
+    <h3>Integrantes del grupo</h3>
+    <ul>
+        <li>Angela</li>
+        <li>Naomy</li>
+        <li>Alejandra</li>
+        <li>Jennifer</li>
+    </ul>
+</body>
+</html>Hola me reporto, espero podamos pasar esta tarea 
+<exito a todas >
+<li>Susan</li>
+    
+    <h1>¡Hola! Mi nombre es Naomy</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1 X. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+   <ul>
+       
+        <li><strong>Carrera:</strong> [Lic. Relaciones Industriales</li>
+        <li><strong>Número de cuenta:</strong> [202620150013]</li>
+        <li><strong>Correo:</strong> [nrportillo@uth.hn]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender sobre desarrollo web, gestión de repositorios con Git y trabajo colaborativo en equipo.
+        y lo mas importante el trabajo en equipo.</p>
+        
+       <li>Angela</li>
+    
+    <h1>¡Hola! Mi nombre es Angela</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+   <ul>
+       
+        <li><strong>Carrera:</strong> [Licenciatura Relaciones Industriales</li>
+        <li><strong>Número de cuenta:</strong> [202510150197]</li>
+        <li><strong>Correo:</strong> [angelaorga2010@gmail.com]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender mas sobre GitHub y sobre como trabajar mejor en equipo.</p>
+    
+</h1>Hola mi nombres es Madellin Trochez<h1>
+</h1> soy estudiante de la clase de Introducción a la Informatica y formo parte del grupo#1 
+<li><strong>Nombre=</strong>[Madellin Marbella Trochez Vasquez]<li>
+<li><strong>Cuenta= [202510150230]</li>
+<li><strong>Carrera= [Licenciatura en Recursos Humanos]</li>
+<li><strong>Universidad= [UTH]</li>
+</h1>Y el proyecto que estamos presentando es sobre la investigación de GitHub.</h1>
+</h1>Mi interes es trabajar en equipo y aprende sobre lo que es GitHub</h1>
+<li><strong>Nombre=</strong>[Alejandra Maria Corea Tejada]<li>
+</h1>Soy estudiante de la clase de Introducción a la Informatica y grupo#1</h1> 
+<li><strong>Cuenta= [202510150065]</li>
+<li><strong>Carrera= [Licenciatura en Gerencia de Negocios]</li>
+</h1>Mi espectativa</h1>
+</h1>Espero aprender a utilizar herramientas tecnologicas que me ayuden tanto en mis estudios como en mi futuro personal</h1>  
+     
+    
+    <h1>¡Hola! Mi nombre es Fernanda Gomez</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática integrante del Grupo N 1 X. Este es mi espacio dentro de nuestro proyecto sobre GitHub.</p
+   <ul>
 
+        <li><strong>Carrera:</strong> [Lic.Gerencia de negocios</li>
+        <li><strong>Número de cuenta:</strong> [202430150047]</li>
+        <li><strong>Correo:</strong> [fmgomez2@uth.hn]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender el manejo y desarrollo de apps como GitHub, el trabajo colaborativo por medio de github , el trabajo en quipo .</p> 
+    <li><strong>Nombre=</strong> [Hola mi nombre es Jennifer Yaritza Lopez Licona]</li>
+    <li><strong>Cuenta=</strong> [202510150146]</li>
+    <li><strong>Carrera=</strong> [Licenciatura en RR.HH]</li>
+    <li><strong>Universidad=</strong> [UTH]</li>
+    <h1>Estoy cursando la clase de Introducción a la Informática</h1>
+    <h1>nuestro proyecto es sobre la investigación de GitHub.</h1>
+    <h1>Deseo poder aprender a utilizar GitHub, asi como otras herramientas queme ayuden ha crecer profesionalmente.</h1>
