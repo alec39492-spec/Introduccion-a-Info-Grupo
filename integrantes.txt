@@ -13,11 +13,15 @@
         <li>Naomy</li>
         <li>Alejandra</li>
         <li>Jennifer</li>
+        <li>Maryuri</li>
+        <li>Madeline</li>
+        <li>Fernanda</li>
+        <li>Susan</li>
     </ul>
 </body>
 </html>Hola me reporto, espero podamos pasar esta tarea 
 <exito a todas >
-<li>Susan</li>
+
     
     <h1>¡Hola! Mi nombre es Naomy</h1>
     <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1 X. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
@@ -52,11 +56,11 @@
 
 
 <li><strong>Nombre=</strong>[Alejandra Maria Corea Tejada]<li>
-</h1>Soy estudiante de la clase de Introducción a la Informatica y grupo#1</h1> 
+<h1>Soy estudiante de la clase de Introducción a la Informatica y grupo#1</h1> 
 <li><strong>Cuenta= [202510150065]</li>
 <li><strong>Carrera= [Licenciatura en Gerencia de Negocios]</li>
-</h1>Mi espectativa</h1>
-</h1>Espero aprender a utilizar herramientas tecnologicas que me ayuden tanto en mis estudios como en mi futuro personal</h1>  
+<h1>Mi espectativa</h1>
+<h1>Espero aprender a utilizar herramientas tecnologicas que me ayuden tanto en mis estudios como en mi futuro personal</h1>  
      
     
     <h1>¡Hola! Mi nombre es Fernanda Gomez</h1>
