@@ -45,6 +45,18 @@
     <h3>Sobre mí y mis expectativas</h3>
     <p>Me interesa aprender mas sobre GitHub y sobre como trabajar mejor en equipo.</p>
     
+<h1>¡Hola! Mi nombre es Susan</h1>
+    <p>Soy estudiante de la clase de Introducción a la Informática y formo parte del Grupo N 1 X. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+   <ul>
+
+        <li><strong>Carrera:</strong> [Lic. Recursos Humanos] </li>
+        <li><strong>Número de cuenta:</strong> [202620150087]</li>
+        <li><strong>Correo:</strong> [sacastro2@uth]</li>   
+   </ul> 
+    <h3>Sobre mí y mis expectativas</h3>
+    <p>Me interesa aprender sobre desarrollo web, gestión de repositorios con Git y trabajo colaborativo en equipo.
+        y lo mas importante el trabajo en equipo.</p>
+
 </h1>Hola mi nombres es Madellin Trochez<h1>
 </h1> soy estudiante de la clase de Introducción a la Informatica y formo parte del grupo#1 
 <li><strong>Nombre=</strong>[Madellin Marbella Trochez Vasquez]<li>
