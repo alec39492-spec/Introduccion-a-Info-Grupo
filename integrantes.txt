@@ -108,3 +108,39 @@
 </ul>
 <h3›Sobre mí y mis expectativas</h3>
 <p>Me gustaría aprender a utilizar mejor el GitHub, y me gusta los nuevos conocimientos estratégicos que estoy aprendido.</p>
+<li>maryuri</li>
+
+
+<h1› ¡Hola! Mi nombre es Naomy</h1> <p>Soy estudiante de la clase de Lic. Relacciones Industriales y formo parte del GrupoN 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+<ul>
+<li><strong›Carrera:</strong>
+[Lic. Relacciones Industriales </li>
+<li>‹strong›Número de cuenta:</strong>
+[202620150013]</li>
+<li><strong>Correo:</strong>
+[nrportillo@gmail.com]</li>
+</ul>
+<h3›Sobre mí y mis expectativas</h3>
+<p>Me gustaría aprender a utilizar mejor el GitHub, y me gusta los nuevos conocimientos estratégicos que estoy aprendido.</p>
+<li>Naomy</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
