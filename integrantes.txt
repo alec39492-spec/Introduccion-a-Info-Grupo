@@ -47,7 +47,7 @@
     
 
 <li>Susan</li>
-<h1› ¡Hola! Mi nombre es Susan</h1> <p>Soy estudiante de la clase de recursos humanos y formo parte del GrupoN 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+<h1› ¡Hola! Mi nombre es Susan</h1> <p>Soy estudiante de la clase de Introducción ala Informática y formo parte del GrupoN 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
 <ul>
 <li><strong›Carrera:</strong>
 [Licenciatura en recursos humanos </li>
