@@ -81,3 +81,16 @@
     <h1>Estoy cursando la clase de Introducción a la Informática</h1>
     <h1>nuestro proyecto es sobre la investigación de GitHub.</h1>
     <h1>Deseo poder aprender a utilizar GitHub, asi como otras herramientas queme ayuden ha crecer profesionalmente.</h1>
+
+<li>maryuri</li>
+<h1› ¡Hola! Mi nombre es Maryuri</h1> <p>Soy estudiante de la clase de recursos humanos y formo parte del GrupoN 1. Este es mi espacio dentro de nuestro proyecto universitario en GitHub.</p
+<ul>
+<li><strong›Carrera:</strong>
+[Licenciatura en recursos humanos </li>
+<li>‹strong›Número de cuenta:</strong>
+[202510150235]</li>
+<li><strong>Correo:</strong>
+[maryuridariellycastellanos123@gmail.com]</li>
+</ul>
+<h3›Sobre mí y mis expectativas</h3>
+<p>Me gustaría aprender a utilizar mejor el GitHub, y me gusta los nuevos conocimientos estratégicos que estoy aprendido.</p>
